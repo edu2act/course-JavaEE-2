@@ -1,5 +1,4 @@
 # course-JavaEE-2
-Java企业级开发二
 第1章 JSP简介
 主要内容：
 1.	JSP的概念； 
